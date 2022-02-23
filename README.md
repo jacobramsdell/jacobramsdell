@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @seagoat-io
+- 👋 Hi, I’m @jacobramsdell
 - 👀 I’m interested in plants, productivity, and wellness.
 - 🌱 I’m currently learning javascript and python.
 - 💞️ I’m looking to collaborate on anything you want to help me learn. I'm open!
